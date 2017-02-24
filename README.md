@@ -4,4 +4,4 @@
 
 Intellij Idea plugin for coloring project tree. If you want to color the whole application then take a look at [Color IDE plugin](https://github.com/dmalch/ColorIDE).
 
-![](https://github.com/dmalch/ColorIde/raw/master/ColorIde.png)
+![](https://raw.githubusercontent.com/dmalch/ColorIde/master/ColorIde.png)
